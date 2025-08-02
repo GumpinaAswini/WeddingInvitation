@@ -14,8 +14,10 @@ body::-webkit-scrollbar {
 }
 
 .font-esthetic {
-    font-family: 'Sacramento', cursive !important;
+    font-family:'Fantasy', cursive !important;
     color: #ffffff !important;
+    text-align: center;
+    font-size: 50%;
 }
 
 .font-arabic {
@@ -117,4 +119,24 @@ body::-webkit-scrollbar {
 footer {
     margin-top: -0.5rem;
     padding-bottom: 5rem;
+}
+.image{
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+.bridegroom{
+    font-family:'Fantasy', cursive !important;
+    color: gold !important;
+    text-align: center;
+}
+.bride{
+    font-family:'Fantasy', cursive !important;
+    color: gold !important;
+    text-align: center;
 }
